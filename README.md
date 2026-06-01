@@ -6,17 +6,17 @@ Ticketing Microservices Project from LeetJourney
 
 # TechStack Used
 
-Java
-Spring (Boot, Web, Data JPA, Actuator, Cloud Gateway)
-MySQL DB
-Flyway
-Zookeeper
-Kafka
-Keycloak Auth
-Swagger
-Lombok
-Slf4J
-Docker / Docker Compose
+- Java
+- Spring (Boot, Web, Data JPA, Actuator, Cloud Gateway)
+- MySQL DB
+- Flyway
+- Zookeeper
+- Kafka
+- Keycloak Auth
+- Swagger
+- Lombok
+- Slf4J
+- Docker / Docker Compose
 
 
 # Improvement Ideas:
