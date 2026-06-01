@@ -5,10 +5,10 @@
 
 # This project is composed of 4 separated repositories:
 
-- Inventory Service
-- Booking Service
-- Order Service
-- API Gateway
+- inventory-service
+- booking-service
+- order-service
+- ticketing-api-gateway
 
 
 # TechStack Used
