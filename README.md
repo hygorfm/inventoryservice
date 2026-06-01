@@ -1,6 +1,9 @@
 
 Ticketing Microservices Project from LeetJourney
 
+<img width="1910" height="1072" alt="Ticketing Microservices System Design" src="https://github.com/user-attachments/assets/e2e5fafc-d930-4ae8-ab0a-4430582fb8bf" />
+
+
 # TechStack Used
 
 Java
